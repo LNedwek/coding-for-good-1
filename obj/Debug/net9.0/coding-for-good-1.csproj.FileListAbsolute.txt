@@ -1,5 +1,0 @@
-C:\dev\lnedwek\coding-for-good-1\obj\Debug\net9.0\coding-for-good-1.GeneratedMSBuildEditorConfig.editorconfig
-C:\dev\lnedwek\coding-for-good-1\obj\Debug\net9.0\coding-for-good-1.AssemblyInfoInputs.cache
-C:\dev\lnedwek\coding-for-good-1\obj\Debug\net9.0\coding-for-good-1.AssemblyInfo.cs
-C:\dev\lnedwek\coding-for-good-1\obj\Debug\net9.0\coding-for-good-1.csproj.CoreCompileInputs.cache
-C:\dev\lnedwek\coding-for-good-1\obj\Debug\net9.0\coding-for-good-1.sourcelink.json
