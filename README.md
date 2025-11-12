@@ -8,4 +8,4 @@ First Coding for good senior badge
     - [ ] Allow user to prompt to retrieve a portrait by name
 - [x] learn about computer logic
 - [x] explore "IF" statements
-- [ ] use computer logic to create a quiz show
+- [x] use computer logic to create a quiz show
